@@ -28,7 +28,7 @@ rpi-fan-controller
 
 1. **Clone the repository:**
    ```bash
-   git clone gh repo clone MrQauckQauck/rpi-fan-controller
+   git clone https://github.com/MrQauckQauck/rpi-fan-controller.git
    cd rpi-fan-controller
    ```
 
